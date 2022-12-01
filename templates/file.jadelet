@@ -1,0 +1,3 @@
+file(draggable="true" @dragstart @dblclick @contextmenu @path @type)
+  icon
+  label= @displayName
